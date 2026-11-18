@@ -55,6 +55,10 @@ Outside the code, I am a **quiet builder and explorer**. I like **backend & DevO
 </blockquote>
 <h4>✦ What I'm Building &amp; Exploring</h4>
 <ul>
+Deep Learning · Systems · Open Source📚
+C · C++ · Rust · Go · Python 🌿
+Arch Linux · Hyprland · Neovim🐧
+GitHub👾: jasmin1727
   <li>🔥 <b>Low-Level Systems</b>: Writing fast, memory-safe software with C, C++, and Rust</li>
   <li>🧠 <b>Deep Learning &amp; AI</b>: Researching architectures, training models, and experimenting on Kaggle &amp; Colab</li>
   <li>💻 <b>Custom Unix Environment</b>: Minimalist workflow driven by Arch Linux, Hyprland, and Neovim</li>
