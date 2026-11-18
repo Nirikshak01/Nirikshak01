@@ -6,7 +6,7 @@ The universe is **timeless** and **unchanging**. I am a **temporary witness**, h
 
 ### 🔭 What I observe
 
-In my work, observing is the whole job. I study **how language models think** by taking them apart layer by layer and watching what happens inside. I notice **patterns in data**, **the behaviour of systems** and **the way things break**, because that is where the real learning is. Whatever I observe, I turn into **research, tools and small experiments**.
+I am a **student** and an **independent researcher**, and for me, observing is how I learn. I study **how language models think** by taking them apart layer by layer and watching what happens inside. I notice **patterns in data**, **the behaviour of systems** and **the way things break**, because that is where the real learning is. Whatever I observe, I turn into **research, tools and small experiments**.
 
 Outside the code, I am a **quiet builder and explorer**. I like **backend & DevOps** and **reverse engineering**, anything that makes you look closely before you understand it. I believe in **watching first, building second**.
 
