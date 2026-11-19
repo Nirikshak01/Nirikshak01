@@ -17,6 +17,6 @@ Outside the code, I am a quiet builder and explorer. I like backend, DevOps and 
   <img src=".github/assets/metrics-repository.svg?raw=true" width="49%" alt="Repository metrics" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src=".github/assets/metrics-activity.svg?raw=true" width="98%" alt="Contribution activity" />
-</p>
+</p> -->
