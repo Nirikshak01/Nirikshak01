@@ -12,6 +12,6 @@ Outside the code, I am a quiet builder and explorer. I like backend, DevOps and 
 
 *Observe. Understand. Build.*
 
-<p align="center">
+<!-- <p align="center">
   <img src=".github/assets/metrics-stats.svg?raw=true&amp;v=dc26c1f" width="100%" alt="GitHub profile metrics, languages, and repository activity" />
-</p>
+</p> -->
