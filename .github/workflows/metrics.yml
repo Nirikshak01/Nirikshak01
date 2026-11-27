@@ -1,3 +1,4 @@
+# Visit https://github.com/lowlighter/metrics/blob/master/action.yml for full reference
 name: Update README cards
 
 on:
@@ -6,6 +7,8 @@ on:
   workflow_dispatch:
   push:
     branches: [main]
+    paths-ignore:
+      - ".github/assets/**"
 
 permissions:
   contents: write
@@ -15,15 +18,26 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
-      - name: Update profile metrics
+      - name: Stats
         uses: lowlighter/metrics@latest
         with:
+          user: Nirikshak01
           token: ${{ secrets.METRICS_TOKEN || github.token }}
           committer_token: ${{ github.token }}
-          user: Nirikshak01
           filename: .github/assets/metrics-stats.svg
           base: header, activity, community, repositories
           repositories_affiliations: owner
+          config_timezone: Asia/Kolkata
+
+      - name: Repository Metrics
+        uses: lowlighter/metrics@latest
+        with:
+          user: Nirikshak01
+          token: ${{ secrets.METRICS_TOKEN || github.token }}
+          committer_token: ${{ github.token }}
+          filename: .github/assets/metrics-repository.svg
+          template: classic
+          base: ""
           config_timezone: Asia/Kolkata
           plugin_followup: yes
           plugin_languages: yes
