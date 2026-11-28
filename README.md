@@ -13,6 +13,6 @@ Outside the code, I am a quiet builder and explorer. I like backend, DevOps and 
 *Observe. Understand. Build.*
 
 <p align="center">
-  <img src=".github/assets/metrics-stats.svg?raw=true&v=9890" width="49%" alt="GitHub profile metrics" />
-  <img src=".github/assets/metrics-repository.svg?raw=true&v=9890" width="49%" alt="Repository metrics" />
+  <img src=".github/assets/metrics-stats.svg?raw=true&v=9891" width="49%" alt="GitHub profile metrics" />
+  <img src=".github/assets/metrics-repository.svg?raw=true&v=9891" width="49%" alt="Repository metrics" />
 </p>
